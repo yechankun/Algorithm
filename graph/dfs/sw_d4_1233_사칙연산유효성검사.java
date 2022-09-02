@@ -10,7 +10,7 @@ import java.util.StringTokenizer;
 //DFS로 풀기
 //연산자의 밑의 리프노드엔 항상 숫자
 //숫자의 자식이나 부모는 숫자가 될 수 없음.
-public class SW_D4_1233 {
+public class sw_d4_1233_사칙연산유효성검사 {
 	static String tree[] = new String[201];
 	static int N;
 	static boolean isvalid = true;

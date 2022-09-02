@@ -1,4 +1,4 @@
-package com.ssafy.combination;
+//https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AWTT_DrqX-UDFAVT
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class SW_D3_5215{
+public class sw_d3_5215_승진이의별자리찾기 {
 	static int N, R, L;
 	static int[] numbers;
 	static int T[], K[];

@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class SW_D3_1225 {
+public class sw_d3_1225_암호생성기 {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		Queue<Integer> queue = new LinkedList<Integer>();

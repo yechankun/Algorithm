@@ -1,8 +1,9 @@
+// https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWAe7XSKfUUDFAUw
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class SW_D4_3234{
+public class sw_d4_3234_준환이의양팔저울 {
 	static int N, weight[], count;
 
 	public static void main(String[] args) throws Exception {

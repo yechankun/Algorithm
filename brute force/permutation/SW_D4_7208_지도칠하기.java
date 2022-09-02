@@ -1,4 +1,4 @@
-package com.ssafy.permutation;
+// https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AWlHcsEqf1YDFASG
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 // 중복순열
-public class SW_D4_7208{
+public class SW_D4_7208_지도칠하기 {
 	static int color = 4, countryCnt, min;
 	static int[] colorNums;
 	static int[] inputColors;

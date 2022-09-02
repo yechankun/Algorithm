@@ -47,3 +47,23 @@ def solution(prices):
                 answer[i] += 1
                 break
     return answer
+
+#더더 나은 풀이
+def solution(prices):
+    prs_len = len(prices)
+    stk_list=[0]
+    answer=[0]*prs_len
+
+    for idx, p in enumerate(prices[1:]):
+        if prices[stk_list[-1]] > p:
+            for s in stk_list[::-1]:
+                if prices[s] > p:
+                    answer[s] = idx-s+1
+                    stk_list.remove(s)
+                else: break
+        stk_list.append(idx+1)
+
+    for i in range(0, len(stk_list)-1):
+        answer[stk_list[i]] = prs_len-stk_list[i]-1
+    
+    return answer

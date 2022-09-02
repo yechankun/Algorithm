@@ -1,8 +1,9 @@
+// https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14nnAaAFACFAYD
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Stack;
 
-public class SW_D4_1223{
+public class sw_d4_1223_계산기2 {
 
 	public static void main(String[] args) throws Exception {
 		Stack<Character> opStack = new Stack<>();

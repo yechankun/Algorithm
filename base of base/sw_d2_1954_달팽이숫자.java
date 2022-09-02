@@ -1,6 +1,7 @@
+//https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq&categoryId=AV5PobmqAPoDFAUq&categoryType=CODE&problemTitle=1954&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1
 import java.util.Scanner;
 
-public class SW_D2_1954 {
+public class sw_d2_1954_달팽이숫자 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

@@ -1,9 +1,10 @@
+//https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PzOCKAigDFAUq&categoryId=AV5PzOCKAigDFAUq&categoryType=CODE&problemTitle=2001&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 
-public class SW_D2_2001 {
+public class sw_d2_2001_파리퇴치 {
     public static void main(String args[]) throws Exception{
     	BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st;

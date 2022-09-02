@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.StringTokenizer;
 
-public class SW_D3_1228 {
+public class sw_d3_1228_암호문1 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		LinkedList<String> cryptolist = new LinkedList<>();
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

@@ -1,9 +1,10 @@
+// https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class SW_test_4012{
+public class sw_test_4012_요리사 {
 	static int T, N, synergy[][], min, select1[], select2[], half_N;
 	static boolean selected[];
 

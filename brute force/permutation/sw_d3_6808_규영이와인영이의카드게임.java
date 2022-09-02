@@ -1,9 +1,10 @@
+// https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgv9va6HnkDFAW0
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class SW_D3_6808{
+public class sw_d3_6808_규영이와인영이의카드게임 {
 	private static int N = 9, win;
 	private static int[] inNum, kuNum;
 //	private static HashMap<Integer, Integer> kuNum = new HashMap<>();

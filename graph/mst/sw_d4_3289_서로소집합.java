@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class SW_D4_3289 {
+public class sw_d4_3289_서로소집합 {
 	static int[] parent;
 
 	public static int findSet(int v) {
