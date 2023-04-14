@@ -34,12 +34,12 @@
 - 파일명, 폴더 변경시
   - move : 6자수정날짜표기 파일명
 
-| 플랫폼 이름   | 예시                                             |
-| ------------- | ------------------------------------------------ |
-| 백준          | solve(simulation) : 221227*bj_s2*오목.py         |
-| 프로그래머스  | solve(search) : 221227*pg_lv1*컨트롤 제트.py     |
-| 리트코드 예시 | solve(math) : 221227_lt_e_Two Sum.py             |
-| 코드트리 예시 | solve(simulation) : 221227*ct_g2*정육면체 굴리기 |
+| 플랫폼 이름   | 예시                                              |
+| ------------- | ------------------------------------------------- |
+| 백준          | solve(simulation) : 221227_bj_s2\_오목.py         |
+| 프로그래머스  | solve(search) : 221227_pg_lv1\_컨트롤 제트.py     |
+| 리트코드 예시 | solve(math) : 221227_lt_e_Two Sum.py              |
+| 코드트리 예시 | solve(simulation) : 221227_ct_g2\_정육면체 굴리기 |
 
 ## 📁 파일명 규칙
 
@@ -49,7 +49,7 @@
 
 - 플랫폼: 백준/프로그래머스/리트코드/코드트리 = bj/pg/lt/ct
 - 난이도: 레벨표기일 경우 = lv, 광물표기일 경우 = 첫글자영어소문자, 리트코드의 경우 = Difficulty의 첫글자
-  - e.g. 220411*pg_lv2*숫자 더하기.py, 220411*bj_b1*덧셈나눗셈.py, 221227_lt_e_Two Sum.py
+  - e.g. 220411_pg_lv2\_숫자 더하기.py, 220411_bj_b1\_덧셈나눗셈.py, 221227_lt_e_Two Sum.py
 - 폴더명은 문제종류(영어)로 한다.
 
 ## 그 외 규칙
@@ -61,6 +61,6 @@
 
 ## 💦 참고
 
-문제 종류: sliding window>dp>simulation>search>greedy>sort>string>math
+문제 종류: two pointer>dp>simulation>search>greedy>sort>string>math
 
 > 문제 풀이가 복합적인 알고리즘이 요구될 경우 왼쪽이 우선순위를 가짐
