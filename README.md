@@ -64,6 +64,6 @@
 
 ## 💦 참고
 
-문제 종류: two pointer>dp>simulation>search>greedy>sort>string>math
+문제 종류: [https://www.acmicpc.net/problem/tags](https://www.acmicpc.net/problem/tags)
 
-> 문제 풀이가 복합적인 알고리즘이 요구될 경우 왼쪽이 우선순위를 가짐
+> 가장 아래의 일치하는 알고리즘 분류가 폴더명이 됨.
